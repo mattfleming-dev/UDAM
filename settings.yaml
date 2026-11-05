@@ -1,0 +1,13 @@
+ai_provider: llamacpp
+llamacpp_binary_path: resources/llama-b11024-bin-win-cpu-x64/llama-server.exe
+llamacpp_model_path: resources/gemma-4-E2B-it-Q4_K_M.gguf
+llamacpp_mmproj_path: resources/mmproj-gemma-4-E2B-it-F16.gguf
+llamacpp_host: 127.0.0.1
+llamacpp_port: 8642
+llamacpp_context_size: 4096
+llamacpp_gpu_layers: 0
+exiftool_path: ''
+thumbnail_cache_dir: thumbnails
+thumbnail_cache_max_gb: 5.0
+export_default_format: jpg
+export_jpeg_quality: 92
