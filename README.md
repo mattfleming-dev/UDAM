@@ -47,4 +47,4 @@ Model weights, local databases, photographs, runtime DLLs, and compiled installe
 
 ## License
 
-No project license is included. Public visibility does not grant permission to reuse or redistribute this code.
+UDAM's original code is licensed under the [MIT License](LICENSE). Third-party dependencies may have separate licenses or terms; review them before redistribution or use.

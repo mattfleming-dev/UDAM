@@ -20,4 +20,4 @@ Do not attach photographs, EXIF data, database files, full paths, API keys, toke
 
 ## Licensing
 
-This repository does not include a project license. Do not treat public visibility as permission to reuse or redistribute its contents.
+UDAM's original code is licensed under the [MIT License](LICENSE). Third-party dependencies may have separate licenses or terms; review them before redistribution or use.
